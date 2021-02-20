@@ -1,6 +1,8 @@
 # Proyecto
 Repositorio para el proyecto conjunto entre primero y segundo.
 
+Proyecto realizado por [JoanRibot](https://github.com/JoanRibot) y por mi.
+
 ## ¿De qué va este proyecto?
 
 Nosotros hemos enfocado este proyecto como que Rick viaja por los distintos planetas probando comida y decide que el planeta Tierra tiene los mejores platos del universo, entonces hemos hecho un sitio web sobre los menús más deliciosos de distintos países.
